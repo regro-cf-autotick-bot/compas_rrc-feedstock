@@ -20,7 +20,7 @@ requirements:
     - pip
     - python >=3.6
   run:
-    - compas_fab
+    - compas_fab >=1,<2
     - roslibpy >=1.1
     - python >=3.6
 
