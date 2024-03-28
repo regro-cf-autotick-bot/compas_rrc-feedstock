@@ -1,5 +1,5 @@
 {% set name = "compas_rrc" %}
-{% set version = "1.1.0" %}
+{% set version = "2.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/compas_rrc-{{ version }}.tar.gz
-  sha256: 3078fb040d1e8a6ac776fcffc4edda63b0586acaff379214831ec5bc7c7f8577
+  sha256: 5e47de1072bc505500b25232b1925449fe73aa6d4469735d512b046cecaec7be
 
 build:
   number: 0
